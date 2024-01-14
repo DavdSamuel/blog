@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'pt-BR'
+title = 'Blog do Samuel'
+theme = 'hugo-flex'
+
+[params]
+    footer = '<a href="github.com/DavdSamuel">Meu GitHub</a>'
