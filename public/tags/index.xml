@@ -8,5 +8,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <atom:link rel="self" href="https://example.org/tags/index.xml" type="application/rss+xml" />
+    <item>
+      <title>Sobre Mim</title>
+      <link>https://example.org/posts/sobre_mim/</link>
+      <pubDate>Sun, 14 Jan 2024 20:49:20 +0000</pubDate>
+      <guid>https://example.org/posts/sobre_mim/</guid>
+      <description>&lt;p&gt;Olá, meu nome é David Samuel, eu sou um programador de C e Go, e estudante de matemática e ciências.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Porquê este blog?&lt;/strong&gt;&lt;br&gt;
+É basicamente pra postar coisas legais&lt;/p&gt;
+</description>
+    </item>
   </channel>
 </rss>
