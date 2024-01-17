@@ -3,16 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://example.org/</loc>
-    <lastmod>2024-01-14T20:49:20+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/posts/</loc>
-    <lastmod>2024-01-14T20:49:20+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/posts/sobre_mim/</loc>
-    <lastmod>2024-01-14T20:49:20+00:00</lastmod>
+    <lastmod>2024-01-15T15:39:43+00:00</lastmod>
   </url><url>
     <loc>https://example.org/categories/</loc>
+    <lastmod>2024-01-15T15:39:43+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/latex/</loc>
+    <lastmod>2024-01-15T15:39:43+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/categories/matem%C3%A1tica/</loc>
+    <lastmod>2024-01-15T15:39:43+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/mathjax/</loc>
+    <lastmod>2024-01-15T15:39:43+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/</loc>
+    <lastmod>2024-01-15T15:39:43+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/categories/programa%C3%A7%C3%A3o/</loc>
+    <lastmod>2024-01-15T15:39:43+00:00</lastmod>
   </url><url>
     <loc>https://example.org/tags/</loc>
+    <lastmod>2024-01-15T15:39:43+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/categories/tutoriais/</loc>
+    <lastmod>2024-01-15T15:39:43+00:00</lastmod>
   </url>
 </urlset>
