@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
-languageCode = 'pt-BR'
+languageCode = 'pt-br'
 title = 'Blog do Samuel'
 theme = 'hugo-flex'
 
 [params]
-    footer = '<a href="github.com/DavdSamuel">Meu GitHub</a>'
+    footer = '<a href="github.com/DavdSamuel">Meu GitHub</a> | Quer enviar sugestões? Me mande um e-mail: <a href="mailto:samuelmarinhodasilvamarinho@gmail.com">samuelmarinhodasilvamarinho@gmail.com</a>'
