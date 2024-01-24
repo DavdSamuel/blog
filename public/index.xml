@@ -42,7 +42,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt;&amp;gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;html&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;E aproveite o resultado :)&lt;br&gt;
-&lt;img src=&#34;https://example.org/img/formula.png&#34; alt=&#34;Resultado do código acima&#34;&gt;&lt;br&gt;
+&lt;img src=&#34;img/formula.png&#34; alt=&#34;Resultado do código acima&#34;&gt;&lt;br&gt;
 Você deve ter gostado não é? Vamos fazer um projeto com isso!&lt;/p&gt;
 &lt;h2 id=&#34;um-projeto-de-fórmulas&#34;&gt;
   &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://example.org/posts/mathjax/#um-projeto-de-f%c3%b3rmulas&#34;&gt;Um projeto de fórmulas&lt;/a&gt;
@@ -364,7 +364,7 @@ Não fique confuso, deixe eu explicar:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;~/Desktop/Projetos/gerador_de_formulas$ git add .
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;~/Desktop/Projetos/gerador_de_formulas$ git commit -m &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Commit inicial&amp;#34;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;E agora é só rodar o código e ver a mágica acontecer:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://example.org/img/app_formulas.png&#34; alt=&#34;Resultado do nosso código&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;img/app_formulas.png&#34; alt=&#34;Resultado do nosso código&#34;&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>

@@ -34,7 +34,7 @@ O MathJax é uma biblioteca (um código que alguém escreveu para ser usado) par
 ```
 
 E aproveite o resultado :)  
-![Resultado do código acima](/img/formula.png)  
+![Resultado do código acima](img/formula.png)  
 Você deve ter gostado não é? Vamos fazer um projeto com isso!
 
 ## Um projeto de fórmulas
@@ -403,4 +403,4 @@ Vamos fazer o commit no repositório git que criamos, lembre-se, criar um reposi
 
 E agora é só rodar o código e ver a mágica acontecer:
 
-![Resultado do nosso código](/img/app_formulas.png)
+![Resultado do nosso código](img/app_formulas.png)
